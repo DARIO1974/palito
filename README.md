@@ -4,3 +4,5 @@ lista de palito
 camisa 
 sudadera
 reloj
+-------
+nuevo itinerio
